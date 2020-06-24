@@ -1,4 +1,4 @@
-package v2
+package despedida
 
 // DespedidaSimple returns a single message
 func DespedidaSimple() string {
